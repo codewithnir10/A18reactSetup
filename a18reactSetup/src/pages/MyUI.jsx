@@ -22,3 +22,5 @@ const MyUI =()=>{
     </div>
   ) ;
 };
+
+export default MyUI;
